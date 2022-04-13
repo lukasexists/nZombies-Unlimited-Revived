@@ -1,3 +1,5 @@
+This is probably just gonna be me doing maintnance on this, but whatever lol
+
 # nZombies Unlimited
 nZombies Unlimited is an experimental idea of breaking the [original nZombies](https://github.com/Zet0rz/nzombies) free from its limits. It is a complete recreation built from the ground up with the idea of modularizing _everything_ and supporting full toolkits for Config creation.
 
